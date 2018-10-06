@@ -1,7 +1,7 @@
 # HoneyviewXboxRemote
 Control the honeyview comic/manga reader with your Xbox360 controller.
 
-Software Required: 
+Software Required: <br/>
 Honeyview - http://www.bandisoft.com/honeyview/ <br/>
 Keysticks - http://keysticks.net
 
