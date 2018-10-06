@@ -12,5 +12,5 @@ p - previous image<br/>
 ] - skip forward 10 images<br/>
 [ - skip back 10 images<br/>
 
-Copy the P34 - Honeyview.keyx into the keysticks profil directory and activate it. 
+Copy the 'P34 - Honeyview.keyx' file in this repo into the keysticks profile directory and activate it. 
 I have set it to use an empty config by default and only activate if it detects Honeyview running.
